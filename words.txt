@@ -18,3 +18,10 @@ agree
 agreement
 ahead
 air
+Hello, I’m _____.
+I am ____.
+Hey, I’m ___.
+This is __. He/She is my co-worker.
+This is ____. He/She is ______.
+I’d like to introduce you to __, the ___at ___.
+I would like you to meet ____.
