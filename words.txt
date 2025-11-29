@@ -1,27 +1,29 @@
-action
-activity
-actually
-add
-address
-administration
-admit
-adult
-affect
-after
-again
-against
-age
-agency
-agent
-ago
-agree
-agreement
-ahead
-air
-Hello, I’m _____.
-I am ____.
-Hey, I’m ___.
-This is __. He/She is my co-worker.
-This is ____. He/She is ______.
-I’d like to introduce you to __, the ___at ___.
-I would like you to meet ____.
+I like…
+I enjoy…
+My favorite _________ is…
+I don’t like…
+I don’t enjoy…
+I dislike…*
+I hate…
+My least favorite ________ is…
+What do you do?
+What do you work in?
+What do you do for a living?
+How do you spend most of your time?
+I’m a …
+I am…
+I work as a…
+What are doing?
+I am reading a book.
+I am practicing English.
+I am talking on the phone.
+I am learning to speak English.
+I am writing a note.
+I am cooking dinner
+I am cleaning the kitchen.
+I am washing clothes.
+I am driving to work.
+I am at work.
+I am making an appointment.
+I am paying bills online.
+I am chatting with my friends on Skype.
