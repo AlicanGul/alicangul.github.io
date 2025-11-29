@@ -1,4 +1,10 @@
-word1
-word2
-asd
-def
+action
+activity
+actually
+add
+address
+administration
+admit
+adult
+affect
+after
