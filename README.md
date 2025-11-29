@@ -1,1 +1,0 @@
-# alicangul.github.io
