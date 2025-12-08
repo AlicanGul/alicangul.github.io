@@ -113,8 +113,8 @@
         <div id="wordList"></div>
         
         <div class="button-group" id="buttonGroup" style="display: none;">
-            <button class="copy-btn" onclick="copyToClipboard()">Cevaplar ile Kopyala</button>
-            <button class="clear-btn" onclick="clearAnswers()">Cevapları Temizle</button>
+            <button class="copy-btn" onclick="copyToClipboard()">Copy With Answers</button>
+            <button class="clear-btn" onclick="clearAnswers()">Clear Answers</button>
         </div>
         
         <div id="statusMessage" class="status-message"></div>
@@ -157,7 +157,7 @@
                 input.type = 'text';
                 input.className = 'answer-input';
                 input.id = `answer-${index}`;
-                input.placeholder = 'Cevap giriniz...';
+                input.placeholder = 'Enter your answer...';
                 
                 wordItem.appendChild(label);
                 wordItem.appendChild(input);
