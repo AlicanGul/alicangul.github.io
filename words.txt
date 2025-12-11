@@ -8,3 +8,21 @@ pressure
 learn
 pretty
 through
+Single: alone, not in a relationship
+Married: in a committed relationship
+Divorced: formally married, now alone
+In a relationship: in a relationship, but may not be that serious
+Platonic relationship: just friends, no sexual
+Friends: Someone you like to spend time with
+Friends with benefits: people who have sex together but are not in a relationship
+Hook up: someone you have sex with once, but not in a relationship
+Make out: kiss a lot
+Break up: end a relationship
+After a horrible break up and divorce, I am happy to be single again.
+We have been happily married for 10 years.
+My brother is not in a relationship. He likes to hook up with random girls.
+Are you single?
+How long have you been married (together)?
+When did you get divorced?
+Have you been friends for a long time?
+How did you meet each other?
