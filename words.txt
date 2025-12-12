@@ -36,3 +36,16 @@ sort
 section
 whom
 rise
+I am… He/She is….
+tall/short
+fat*/skinny/average
+beautiful/pretty (used for describing women)
+handsome/good-looking (used for describing men)
+Talkative (talks a lot)
+Hard-worker (enjoys working a lot)
+Athletic (enjoys sports)
+Smart/intelligent
+Funny (enjoy jokes, good sense of humor)
+Easy-going (goes with the flow, enjoys most things)
+Lazy (does not do a lot)
+Mean (rude, has a bad attitude, treats other people badly)
