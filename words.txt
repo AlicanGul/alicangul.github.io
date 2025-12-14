@@ -69,3 +69,16 @@ sign
 drive
 art
 tell
+My favorite food is spaghetti with meatballs.
+My least favorite food is sushi.
+I like to eat Chinese food.
+I like to cook Mexican food. Spicy food is my favorite.
+My mom cooks the best potato salad.
+What’s your favorite food?
+What kind of food do you like?
+Do you like Italian food?
+Are you a good cook?
+What are you good at cooking?
+Have you ever tried meatballs?
+Can you give me the recipe for this?
+What is in this food?
