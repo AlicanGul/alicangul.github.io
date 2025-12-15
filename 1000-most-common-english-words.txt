@@ -1,13 +1,3 @@
-one
-three
-college
-serious
-half
-open
-contain
-several
-author
-clearly
 movie
 letter
 item
