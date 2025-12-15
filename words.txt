@@ -8,3 +8,11 @@ contain
 several
 author
 clearly
+It’s sunny.
+It’s cloudy.
+It’s rainy.
+It’s hot out today.
+It’s freezing today.
+I hate ____ weather. (cold, hot, rainy, etc.)
+I love this weather.
+I’m sick and tired of this weather.
