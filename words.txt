@@ -1,18 +1,12 @@
-one
-three
-college
-serious
-half
-open
-contain
-several
-author
-clearly
-It’s sunny.
-It’s cloudy.
-It’s rainy.
-It’s hot out today.
-It’s freezing today.
-I hate ____ weather. (cold, hot, rainy, etc.)
-I love this weather.
-I’m sick and tired of this weather.
+What’s the weather like today?
+Is it going to rain?
+Do you like this weather?
+Do you like hot weather?
+When will this weather ever end?
+Is it supposed to rain tomorrow?
+What’s your favorite season?
+Isn’t it beautiful today?
+I take the bus to work every day.
+My commute takes two hours. There is always a lot of traffic.
+I ride my bike to work.
+We usually walk to stores. If we have to go far we drive in the car.
