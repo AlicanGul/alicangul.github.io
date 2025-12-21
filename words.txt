@@ -1,22 +1,42 @@
-What’s the weather like today?
-Is it going to rain?
-Do you like this weather?
-Do you like hot weather?
-When will this weather ever end?
-Is it supposed to rain tomorrow?
-What’s your favorite season?
-Isn’t it beautiful today?
-I take the bus to work every day.
-My commute takes two hours. There is always a lot of traffic.
-I ride my bike to work.
-We usually walk to stores. If we have to go far we drive in the car.
-movie
-letter
-item
-organization
-they
-simply
-discussion
-individual
-small
-nature
+How do you get to school?
+How do you get to work?
+Do you take public transportation?
+Do you have a long/short commute?
+Do you drive to work every day?
+Do you use public transportation?
+Where’s the closest bus stop to here?
+Does this bus/train go to Ankara?
+What time does the next bus come?
+president
+require
+and
+establish
+themselves
+pay
+develop
+owner
+cell
+ground
+2:00= It’s two o’clock.
+10:15= It’s ten fifteen.
+4:30= It’s four thirty.
+6:45= It’s six forty-five. or it’s a quarter to seven.
+11:25= It’s eleven twenty-five.
+What time is it?
+What time do you work?
+What time do you go to school?
+What time do you get out of school?
+What time does the movie start?
+What time does the class end?
+When does the aerobics class meet?
+How long is the English class?
+article
+place
+final
+matter
+majority
+discover
+to
+wind
+share
+reality
