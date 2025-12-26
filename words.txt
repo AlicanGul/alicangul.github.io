@@ -1,77 +1,50 @@
-How do you get to school?
-How do you get to work?
-Do you take public transportation?
-Do you have a long/short commute?
-Do you drive to work every day?
-Do you use public transportation?
-Where’s the closest bus stop to here?
-Does this bus/train go to Ankara?
-What time does the next bus come?
-president
-require
-and
-establish
-themselves
-pay
-develop
-owner
-cell
-ground
-2:00= It’s two o’clock.
-10:15= It’s ten fifteen.
-4:30= It’s four thirty.
-6:45= It’s six forty-five. or it’s a quarter to seven.
-11:25= It’s eleven twenty-five.
-What time is it?
-What time do you work?
-What time do you go to school?
-What time do you get out of school?
-What time does the movie start?
-What time does the class end?
-When does the aerobics class meet?
-How long is the English class?
-article
-place
-final
-matter
-majority
-discover
-to
-wind
-share
-reality
-The school is in between South Ave. and Birch Street.
-Go straight for three blocks and then turn right. It is the third house from the corner.
-McDonalds is opposite Taco Bell in the food court at the mall.
-I live close to West Tower on Broadway Ave.
-Where is the pharmacy?
-How do you get to Taksim?
-Where is the nearest grocery store?
-Can you tell me how to get to Maslak?
-Could you tell me where the Polaris Plaza is?
-Is there a Rossmann close by?
-note
-or
-just
-within
-wall
-once
-chance
-suddenly
-minute
-could
-Sunday, Saturday, Tuesday, Monday
-Friday, Wednesday, Thursday 
-September, January, February, August
-March, November, April, October
-May, June, July, December
-win
-run
-throughout
-which
-exactly
-fear
-option
-leave
-fact
-professor
+this
+finger
+set
+disease
+those
+party
+hear
+boy
+morning
+work
+reason
+very
+that
+nice
+safe
+significant
+attack
+shoulder
+term
+mother
+myself
+reach
+period
+my
+before
+approach
+feel
+seven
+top
+quite
+subject
+time
+deal
+thought
+recent
+wait
+film
+reflect
+voice
+computer
+partner
+sing
+series
+important
+summer
+vote
+sister
+Mrs
+west
+entire
