@@ -1,70 +1,53 @@
-this
-finger
-set
-disease
-those
-party
-hear
-boy
-morning
-work
-reason
-very
-that
-nice
-safe
-significant
-attack
-shoulder
-term
-mother
-myself
-reach
-period
-my
-before
-approach
-feel
-seven
-top
-quite
-subject
-time
-deal
-thought
-recent
-wait
-film
-reflect
-voice
-computer
-partner
-sing
-series
-important
-summer
-vote
-sister
-Mrs
-west
-entire
-pass
-good
-radio
-under
-future
-remember
-animal
-forget
-official
-environmental
-among
-drug
-range
-girl
-training
-kitchen
-role
-structure
-explain
-parent
+May 18th= Okunuşu: May eighteenth
+December 25th- Okunuşu: December twenty-fifth
+January 1st, 2014= Okunuşu: January first, two thousand fourteen
+March 9th, 2012= Okunuşu: March ninth, two thousand twelve
+November 15th, 1980= Okunuşu: November fifteenth, nineteen eighty
+October 31st, 1954= Okunuşu: October thirty first, nineteen fifty-four
+July 19th, 1846= Okunuşu: July nineteenth, eighteen forty-six.
+Today is Tuesday.
+Yesterday was Monday.
+Tomorrow will be Wednesday.
+What day is today?
+What is today’s date?
+What day do you go to dentist?
+How many days do you study in a week?
+What year were you born?
+What year did you go to Brazil?
+100= one hundred
+1,000= one thousand
+10,000= ten thousand
+100,000= one-hundred thousand
+1,000,000= one million
+346= three hundred forty-six
+739= seven hundred thirty-nine
+4,692= four thousand six-hundred ninety-two
+8,115= eight thousand one hundred and fifteen
+34,999= thirty-four thousand nine-hundred ninety-nine
+58,301= fifty eight thousand, three-hundred one
+245,279= two hundred forty five thousand two hundred seventy nine
+How many eggs are in a dozen?
+How many students are in the class?
+How many people went to the party?
+How much does a box of cookies cost?
+How much do I owe you?
+How much does it cost?
+How much do you make an hour?
+How much did he pay you?
+How much do you pay for car insurance?
+I am American.
+He is French.
+She is Brazilian.
+My mother is Spanish.
+He is Canadian.
+Where are you from?
+I am from Germany.
+He is from Japan.
+She is from New York.
+My grandpa is from Sweden.
+My friend is from Egypt.
+Where do you live now?
+I live in Miami, Florida.
+He lives in Buenos Aires.
+My brother lives in the Philippines.
+She lives in Los Angeles.
