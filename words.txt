@@ -1,20 +1,15 @@
-scientist
-box
-charge
-mention
-source
-eat
-no
-me
-sense
-back
-picture
-up
-join
-without
-them
-property
-weight
-character
-rate
-decision
+I would like a table for two.
+I have a reservation for Esra Volkan.
+I would like to have a coffee.
+Can I get a pizza?
+Do you have any specials?
+What do you recommend?
+This is not what I ordered.
+You forgot to add the tomato.
+This is too cold!
+Could you bring me more tacos?
+Could I have the bill please?
+Can I get the check please?
+Can I get a to-go box?
+Can I get a take away box?
+Can I get a doggy bag?
