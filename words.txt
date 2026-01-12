@@ -1,15 +1,40 @@
-I would like a table for two.
-I have a reservation for Esra Volkan.
-I would like to have a coffee.
-Can I get a pizza?
-Do you have any specials?
-What do you recommend?
-This is not what I ordered.
-You forgot to add the tomato.
-This is too cold!
-Could you bring me more tacos?
-Could I have the bill please?
-Can I get the check please?
-Can I get a to-go box?
-Can I get a take away box?
-Can I get a doggy bag?
+present
+improve
+others
+between
+compare
+central
+interest
+until
+view
+door
+like
+break
+catch
+death
+skin
+worker
+understand
+thousand
+return
+trip
+town
+especially
+policy
+language
+since
+Congress
+long
+from
+ready
+so
+arrive
+someone
+interview
+cost
+he
+government
+concern
+laugh
+society
+score
